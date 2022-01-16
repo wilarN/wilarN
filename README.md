@@ -11,20 +11,20 @@
 ##
 
 <a href="https://github.com/wilarN/wilarN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilarN&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilarN&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/wilarN/wilarN">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilarN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="William's GitHub Stats" />
 </a>
 
-<a href="https://github.com/wilarN/ani-cli-plus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=ani-cli-plus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 <a href="https://github.com/wilarN/wClientPublic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=wClientPublic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+
+<a href="https://github.com/wilarN/ani-cli-plus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=ani-cli-plus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 [1]: https://twitter.com/w1larN
 [2]: https://github.com/wilarN
