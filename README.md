@@ -24,3 +24,10 @@
 
 [1]: https://twitter.com/w1larN
 [2]: https://github.com/wilarN
+<br>
+## Get in touch!
+Website - <https://www.antera.xyz> <br>
+Twitter - <https://twitter.com/w1larN> <br>
+Github(obv) - <https://github.com/wilarN> <br>
+Contact Email - <william.jsson@hotmail.com> <br>
+Discord - william_#6737
