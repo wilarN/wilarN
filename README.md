@@ -39,4 +39,4 @@ ok - <https://wilarn.github.io/> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Contact Email - <william.jsson@hotmail.com> <br>
-Discord - william_#6737
+Discord - ~$ william_#6737
