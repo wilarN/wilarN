@@ -26,10 +26,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=website_proxy_scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/wilarN/engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 [1]: https://twitter.com/w1larN
 [2]: https://github.com/wilarN
 <br>
