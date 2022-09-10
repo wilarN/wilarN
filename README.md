@@ -37,4 +37,4 @@ Github(obv) - <https://github.com/wilarN> <br>
 Contact Email - <william.jsson@hotmail.com> <br>
 Discord - william_#6737
 <br> <br>
-<a href="https://www.buymeacoffee.com/wilarn"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/wilarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
