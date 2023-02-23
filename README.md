@@ -56,7 +56,7 @@
 ok - <https://wilarn.github.io/> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
-Contact Email - <william.jsson@hotmail.com> <br>
+Contact Email - <william.jsson at hotmail.com> <br>
 Discord - william_#6737
 <br> <br>
 <a href="https://www.buymeacoffee.com/wilarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
