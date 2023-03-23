@@ -53,7 +53,7 @@
 [2]: https://github.com/wilarN
 <br>
 ## Get in touch!
-ok - <https://wilarn.github.io/> <br>
+Website - <https://williamjsson.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Contact Email - <william.jsson at hotmail.com> <br>
