@@ -6,7 +6,7 @@
   
 <div align="center">
        <h1>
-<img align="center" width="120" style="border-radius: 50%; border: 2px solid purple;" src="/47583859.jpg" /> <br/>
+<img align="center" width="120" style="border-radius: 50%; border: 2px solid aqua;" src="/47583859.jpg" /> <br/>
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=William;Breaking+already+working+code.;on+a+so+called,+daily+basis." alt="William, Breaking already working code."></a>
      </h1>
 </div>
@@ -20,6 +20,7 @@
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> </a>
 </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a>
 </a> <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linode-1.svg" alt="linode" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
 
