@@ -6,7 +6,7 @@
   
 <div align="center">
        <h1>
-<img align="center" width="120" style="border-radius: 50%; border: 2px solid aqua;" src="/47583859.jpg" /> <br/>
+
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=600&lines=William;Breaking+already+working+code.;on+a+so+called,+daily+basis." alt="William, Breaking already working code."></a>
      </h1>
 </div>
