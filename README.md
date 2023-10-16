@@ -59,6 +59,6 @@ My Forums - <https://meltrasense.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Contact Email - <william.jsson [at] hotmail [dot] com> <br>
-Discord - william_#6737
+Discord - 2942 (yes, no tag)
 <br> <br>
 <a href="https://www.buymeacoffee.com/wilarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
