@@ -34,20 +34,20 @@
 </div><br/>
 
 
+<a href="https://github.com/SentinelNetGuard/SentinelNetGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SentinelNetGuard&repo=SentinelNetGuard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <a href="https://github.com/wilarN/Imaginary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=Imaginary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<a href="https://github.com/wilarN/TSharkGeolocate">
+<a href="https://github.com/wilarN/SentinelNetGuard_Node_Setup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=SentinelNetGuard_Node_Setup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/wilarN/GeoShark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=GeoShark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/wilarN/neovimCFG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=neovimCFG&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/wilarN/website_proxy_scraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=website_proxy_scraper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 [1]: https://twitter.com/w1larN
@@ -55,6 +55,8 @@
 <br>
 ## Get in touch!
 Website - <https://williamjsson.xyz> <br>
+SentinelNetGuard - <https://sentinel.gibb.club> <br>
+SentinelNetGuard Tor - <http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion> <br>
 My Forums - <https://meltrasense.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
