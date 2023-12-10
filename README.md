@@ -21,6 +21,7 @@
 </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a>
 </a> <a href="https://www.linode.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linode-1.svg" alt="linode" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="golang" width="40" height="40"/> </a>
 </p>
 
 
