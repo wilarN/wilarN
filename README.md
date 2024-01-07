@@ -55,13 +55,11 @@
 [2]: https://github.com/wilarN
 <br>
 ## Get in touch!
-Website - <https://williamjsson.xyz> <br>
 SentinelNetGuard - <https://sentinel.gibb.club> <br>
 SentinelNetGuard Tor - <http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion> <br>
 My Forums - <https://meltrasense.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
-Contact Email - <william.jsson [at] hotmail [dot] com> <br>
 Sentinel: <admin [at] sentinelnet [dot] xyz>  <br>
 Meltrasense Contact: <william [at] meltrasense [dot] xyz>  <br>
 Discord - 2942 (yes, no tag)
