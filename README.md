@@ -55,9 +55,9 @@
 [2]: https://github.com/wilarN
 <br>
 ## Get in touch!
+My Forums - <https://meltrasense.xyz> <br>
 SentinelNetGuard - <https://sentinelnet.xyz> <br>
 SentinelNetGuard Tor - <http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion> <br>
-My Forums - <https://meltrasense.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Sentinel: <admin [at] sentinelnet [dot] xyz>  <br>
