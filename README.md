@@ -56,11 +56,8 @@
 <br>
 ## Get in touch!
 My Forums - <https://meltrasense.xyz> <br>
-SentinelNetGuard - <https://sentinelnet.xyz> <br>
-SentinelNetGuard Tor - <http://sentinlwvaer2biec2hlv3sjc3lzikov4cjx42xigob7slzib5znhpqd.onion> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
-Sentinel: <admin [at] sentinelnet [dot] xyz>  <br>
 Meltrasense Contact: <william [at] meltrasense [dot] xyz>  <br>
 Discord - 2942 (yes, no tag)
 <br> <br>
