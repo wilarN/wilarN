@@ -55,6 +55,23 @@
 [2]: https://github.com/wilarN
 <br>
 ## Get in touch!
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZgwi1BYJKwYBBAHaRw8BAQdAC/toRROS1ExzrjA5JzNMRoDH5Vscn7faTmEc
+C5g7ijm0CDB4WmVuaXRoiJkEExYKAEEWIQRX8HIvpet5TwXGLNtQ2lPtqr4UvgUC
+Zgwi1AIbIwUJBaNOzAULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRBQ2lPt
+qr4Uvie1AQDE+Wsguf0pXkeEzrjXAUC2xvVHMeI+cA38MIfMuH9cTQEAwCci1kwv
+WcDx31k9Nt67X0YDLNuJcdFU52ko2oHFqw24OARmDCLUEgorBgEEAZdVAQUBAQdA
+jX5p5zn6kjWcIDbFQrf9NVpxijIG4UYtLe3GiGmUiF4DAQgHiH4EGBYKACYWIQRX
+8HIvpet5TwXGLNtQ2lPtqr4UvgUCZgwi1AIbDAUJBaNOzAAKCRBQ2lPtqr4Uvihj
+AP0c3gccw3fMhyXlxafSl9wDsiWRN12MqjKL8/7X+u/xMwEAqTMsryahntbFAPVq
+RfxIQHH27NKW2h8r45gCAcGBowA=
+=HYM3
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 My Forums - <https://meltrasense.xyz> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
@@ -62,3 +79,4 @@ Meltrasense Contact: <william [at] meltrasense [dot] xyz>  <br>
 Discord - 2942 (yes, no tag)
 <br> <br>
 <a href="https://www.buymeacoffee.com/wilarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
