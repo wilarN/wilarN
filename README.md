@@ -72,7 +72,7 @@ RfxIQHH27NKW2h8r45gCAcGBowA=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-My Forums - <https://meltrasense.xyz> <br>
+My Forums - <https://meltrasense.com> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Meltrasense Contact: <william [at] meltrasense [dot] xyz>  <br>
