@@ -75,7 +75,7 @@ RfxIQHH27NKW2h8r45gCAcGBowA=
 My Forums - <https://meltrasense.com> <br>
 Twitter - <https://twitter.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
-Meltrasense Contact: <william [at] meltrasense [dot] xyz>  <br>
+Email Contact: william [dot] jsson [at] hotmail [dot] com<br>
 Discord - 2942 (yes, no tag)
 <br> <br>
 <a href="https://www.buymeacoffee.com/wilarn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
