@@ -113,7 +113,7 @@ svXu8N4iUklIH630iC9amt+cVjjgqFGf0rg70EhA1PlrKd6KBMC+XANm
 
 My Forums - <https://meltrasense.com> <br>
 Meltrasense Service Status - <https://meltrasense.statuspage.io/> <br>
-My Profile - <https://meltrasense.com/user.php?user=william> <br>
+My Profile - <https://meltrasense.com/user.php?user=william&public_shared_preview=true> <br>
 Twitter - <https://x.com/w1larN> <br>
 Github(obv) - <https://github.com/wilarN> <br>
 Email Contact: william [dot] jsson [at] hotmail [dot] com<br>
