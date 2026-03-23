@@ -33,6 +33,10 @@
 </div>
 </div><br/>
 
+<a href="https://github.com/wilarN/Tyst">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=Tyst&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <a href="https://github.com/SentinelNetGuard/SentinelNetGuard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SentinelNetGuard&repo=SentinelNetGuard&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
@@ -44,10 +48,6 @@
 <a href="https://github.com/wilarN/SentinelNetGuard_Node_Setup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=SentinelNetGuard_Node_Setup&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
-<a href="https://github.com/wilarN/GeoShark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilarN&repo=GeoShark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 (The most active and interesting repos are privated) <br>
 
